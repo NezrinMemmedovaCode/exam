@@ -1,0 +1,22 @@
+table,
+th,
+td {
+    border: 1px solid black;
+    background-color: silver;
+
+    img {
+        width: 150px;
+        height: 150px;
+    }
+}
+
+table {
+    position: absolute;
+    margin-top: 100px;
+}
+
+.admin {
+    background-color: black;
+    max-width: 100%;
+    height: 1000px;
+}
